@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+.idea/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+outputs/
+results/
+logs/
+working_dir/
+*.sqlite
+*.pkl
+*.pt
+*.bin
+.DS_Store
